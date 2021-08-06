@@ -5,20 +5,7 @@
   Here we use the Direction property of the TGLSphere like
   a motion vector for the movement.
 
-  *****************************************************************
-  *                                                               *
-  *       .---.        .-----------   L.I. CARLOS GARCÍA TRUJILLO *
-  *      /     \  __  /    ------                                 *
-  *     / /     \(  )/    -----                                   *
-  *    //////   ' \/ `   ---    Email:                            *
-  *   //// / // :    : ---             cgarciagl@gmail.com        *
-  *  // /   /  /`    '--                                          *
-  * //          //..\\                                            *
-  *         ===UU====UU====                                       *
-  *            '//||\\`     WEB:                                  *
-  *              ''``          http://cgarcia.blogspot.com        *
-  *                                                               *
-  *****************************************************************
+(Iknow i shouldn't put an exe on the repo, but it's for the purpouse that you can test it without having to install Delphi and GLScene 😉)
 
 #Requirements
 
